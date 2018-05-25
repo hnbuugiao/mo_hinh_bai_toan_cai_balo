@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>house.png</file>
+        <file>city.jpg</file>
+        <file>background.jpg</file>
+        <file>sky.jpg</file>
+        <file>truck.png</file>
+    </qresource>
+</RCC>
